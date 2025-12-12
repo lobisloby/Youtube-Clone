@@ -2,7 +2,7 @@
 
 A fully responsive YouTube clone built with React.js that replicates the core features of YouTube, including video browsing, playback, channel information, and comments section using the YouTube Data API v3.
 
-![YouTube Clone Banner](./screenshots/banner.png)
+![YouTube Clone Banner](./screenshots/home.png)
 
 ---
 
@@ -10,7 +10,7 @@ A fully responsive YouTube clone built with React.js that replicates the core fe
 
 🔗 **Live Demo:** [View Demo](#) <!-- Add your deployed link here -->
 
-![Screenshot](./screenshots/preview.png) <!-- Add screenshots later -->
+![Screenshot](./screenshots/home2.png) <!-- Add screenshots later -->
 
 ---
 
